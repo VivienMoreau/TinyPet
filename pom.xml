@@ -30,6 +30,11 @@
     <artifactId>shared-configuration</artifactId>
     <version>1.0.13</version>
   </parent>
+  <plugin>
+   <groupId>com.google.cloud.tools</groupId>
+   <artifactId>appengine-maven-plugin</artifactId>
+   <version>2.2.0</version>
+</plugin>
 
   <properties>
     <maven.compiler.target>1.8</maven.compiler.target>
