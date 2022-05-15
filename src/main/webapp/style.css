@@ -19,8 +19,8 @@
     .m-0{
     margin: 0px !important}
     .is-active a{
-        border-bottom-color: #00d1b2!important;
-       color: #00d1b2!important;
+        border-bottom-color: #e34234!important;
+       color: #e34234!important;
        font-weight: 500;}
     .p-30 {
         padding: 30px;
@@ -38,7 +38,7 @@
        height: 250px;
            background: #adadad;}
      .link {
-       color: #00d1b2!important;
+       color: #e34234!important;
        font-weight: 500;
        }
      .truncate {
@@ -54,7 +54,7 @@
     }
     a.navbar-item.is-active,a.navbar-item:hover,a.navbar-item:active{
     background: #fafafa!important;
-       color: #00d1b2!important;
+       color: #e34234!important;
     }
     .pagination {
        justify-content: center;
@@ -112,7 +112,7 @@
         position: fixed!important;
        z-index: 30;
        width: 640px;
-       background-color: #00d1b2!important;
+       background-color: #e34234!important;
        border-color: transparent;
        text-align:center!important}
        form header p {
@@ -158,8 +158,8 @@
        .search li span{
        margin:0!important;}
        .search li.is-active a{
-       background-color:  #00d1b2!important;
-       border-color:  #00d1b2!important;
+       background-color:  #e34234!important;
+       border-color:  #e34234!important;
        }
        .search li.is-active span{
        color: #fff!important;
