@@ -9,7 +9,7 @@ var DiceGame={
 		name : 'spock',
 		score : 0,
 
-		play = function() {
+		play : function() {
 			if (game.turn < 10) {
 				game.d1 = Math.floor((Math.random() * 5) + 1);
 				game.d2 = Math.floor((Math.random() * 5) + 1);
